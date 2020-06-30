@@ -1,0 +1,28 @@
+
+body{
+    font-family: 'Noto Serif', serif;
+}
+.for-highlighter{
+    color:cyan
+}
+h3{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 50px;
+}
+.for{
+
+    font-size: 15px ;
+}
+.friend{
+    float: left;
+    width: 40%;
+margin-left: 5%;
+padding-left:2% ;
+
+}
+.friend img{
+    width: 100%;
+}

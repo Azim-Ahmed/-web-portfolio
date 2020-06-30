@@ -7,6 +7,7 @@ body{
 background-image:url("images/top-banner.png");
 background-repeat: no-repeat;
 border: 1px solid cyan;
+border-radius: 20px;
 }
 .for-highlighter{
     color:cyan
@@ -42,4 +43,40 @@ padding-left:2% ;
 }
 section{
     height: 500px;
+}
+.brother{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    border: 2px solid cyan;
+    border-radius:20px ;
+}
+h2{
+    font-size:35px ;
+}
+.shadow{
+    background-color: white;
+    box-shadow:10px 10px 40px cyan;
+    border-radius: 5px;
+    height: 70%;
+
+
+}
+.for_experiences{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,  lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#fucbaby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,  blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
